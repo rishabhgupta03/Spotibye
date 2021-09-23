@@ -1,0 +1,22 @@
+def close
+
+def open
+
+def play
+
+main()
+    try:
+        if content type == 'ad'
+        close
+        open
+        play
+    except:
+        credentials
+
+
+pynput - keyboard and mouse control                   
+pyautogui
+
+
+REPORT;
+
