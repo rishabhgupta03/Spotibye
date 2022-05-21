@@ -1,7 +1,3 @@
-#Username	s6qlv8xbxs7l6ru1efmz7sia8
-#Client ID 3b1a41239fb54c619d20ceced1e248ea
-#Client Secret 21e24f79d2f34083aa206b878e615fa5
-
 import os
 import time
 import spotipy
@@ -39,9 +35,9 @@ def restartSpotify():
     playSpotify()
 
 
-spotifyUsername = "s6qlv8xbxs7l6ru1efmz7sia8"
-spotifyClientID = "3b1a41239fb54c619d20ceced1e248ea"
-spotifyClientSecret = "21e24f79d2f34083aa206b878e615fa5"
+spotifyUsername = <spotify username>
+spotifyClientID = <spotify clientID>
+spotifyClientSecret = <spotify Client Secret>
 spotifyAccessScope = "user-read-currently-playing user-modify-playback-state"
 spotifyRedirectURI = "https://google.com/"
 
